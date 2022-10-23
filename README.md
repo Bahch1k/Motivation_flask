@@ -1,6 +1,6 @@
 # Flask Motivation API
 
-This is alternative with same functional for Motivation API wich use Django, but Flask is used here.
+[Motivation API](https://github.com/bdzhalalov/Motivator_motivations) uses Django and has an alternative presented by this project with the same functions, however, in this case, Flask is used.
 
 ## Dependencies
 
